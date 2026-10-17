@@ -1,4 +1,4 @@
-# Problem 18: Retail Customer Segmentation & Churn Prediction
+# Retail Customer Segmentation & Churn Prediction
 
 ## Big Data Systems Project — Hadoop Ecosystem
 
@@ -556,21 +556,7 @@ The project deliverables include:
 
 ---
 
-## 16. Team Contributions
-
-Complete the following table according to each member's actual work.
-
-| Team Member | Contribution |
-|---|---|
-| Member 1 | [Add name, roll number, and actual contribution] |
-| Member 2 | [Add name, roll number, and actual contribution] |
-| Member 3 | [Add name, roll number, and actual contribution] |
-
-All team members should verify their individual contributions before submission.
-
----
-
-## 17. Conclusion
+## 16. Conclusion
 
 This project demonstrates an integrated retail customer analytics pipeline using the Hadoop ecosystem.
 
@@ -580,8 +566,4 @@ The project provides practical experience in batch data processing, SQL analytic
 
 By combining these technologies, the workflow transforms raw retail transaction records into structured customer features and actionable segment summaries.
 
----
 
-**Project:** Problem 18 — Retail Customer Segmentation & Churn Prediction  
-**Course:** Big Data Systems / Big Data & Large-Scale Computing  
-**Repository:** Add your GitHub repository URL here
